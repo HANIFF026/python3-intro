@@ -1,0 +1,4 @@
+menu makan hari ini
+Sosis bakar
+Nasi goreng
+Ayam bakar

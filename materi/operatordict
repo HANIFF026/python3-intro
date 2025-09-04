@@ -1,0 +1,6 @@
+siswa1 = {
+    "nama depan":"haniff",
+    "nama belakang":"pra",
+}
+
+print("siswa",{nama_siswa})

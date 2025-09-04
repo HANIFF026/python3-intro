@@ -1,0 +1,12 @@
+print("materi 10 - file handling")
+print("-----------------------")
+#cari posisi file note.txt dengan raw string (r)
+file_path = r"C:\Users\T 4 6 0\Desktop\PYTHON\module\note.txt"
+#open() -> bukafile target
+#mode r --> read only (hanya baca)
+file_catatan = open(file_path,("r"))
+# read() ->baca isi file.note.txt 
+catatan = file_catatan. read()
+print(f"isi catatan: {catatan}")
+#tututp file note.txt
+file_catatan.close()
